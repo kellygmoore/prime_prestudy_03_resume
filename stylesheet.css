@@ -1,0 +1,180 @@
+
+
+#show {
+	background-color: #993366;  
+	background: linear-gradient(#993366, #9a9a9a, #006666);
+	font-family: Helvitica, sans-serif;
+	font-size: 28px;
+	text-shadow: 2px 2px 3px #000000;
+	color: #FFFFFF;
+	/*padding: 20px 20px 20px 20px; */
+	border: 2px solid #000000;
+	border-radius: 15px 15px 15px 15px;
+	height: 150px;
+	width: 150px;
+	margin: 50px auto 0 auto;
+	box-shadow: 3px 3px 4px #121212;
+}
+
+body {
+	font-family: Verdana, sans-serif;  
+	color: #000000;
+}
+
+header {
+	background-color: #EFEDEE;
+	background: linear-gradient(#EFEFEF, #9a9a9a);
+	border-bottom: 2px solid #993366;
+	border-top: 4px solid #993366;
+	height: 165px;
+	/*width: 1000px;*/
+	padding-left: 25px;
+	margin: 10px auto 0 auto;
+}
+
+header h1 {
+	margin-left: 175px;
+	margin-top: 65px;
+	/*font-family: Helvitica, sans-serif;*/
+	text-shadow: 2px 2px 3px #000000;
+	font-size: 40px;
+	font-weight: bold;
+	color: #006666;
+	font-style: normal;
+	text-decoration: none;
+}
+
+header h1:hover {
+	text-shadow: -2px -2px 3px #FFFFFF;
+}
+
+main {
+	padding-left: 25px;
+	margin: 0 auto 0 auto;
+	background-color: #eeeeee;
+	/*width: 1000px;*/
+	border-bottom: 4px solid #993366;
+}
+
+main p {
+	/*font-family: "Helvitica", sans-serif;*/
+	font-size: 14px;
+}
+
+main h1 {
+	padding-top: 15px;
+	text-transform: uppercase;
+	color: #993366;
+	font-size: 20px;
+	/*font-family: "Helvitica", sans-serif;*/
+	text-decoration: none;
+	text-shadow: 1px 1px 1px #000000;
+}
+
+main h2 {
+	font-size: 20px;
+	/*font-family: "Helvitica", sans-serif;*/
+	font-style: bold;
+	color: #669999;
+	line-height: 5px;
+}
+
+main h3 {
+	font-size:18px;
+	/*font-family:"helvitica";*/
+	font-style: bold;
+	/*color: #000000;*/
+	text-transform: uppercase;
+	line-height: 10px;
+	text-indent: 10px;
+	font-style: italic;
+}
+
+main h4 {
+	font-size:16px;
+	/*font-family:"helvitica";*/
+	/*color: #000000;*/
+	border-bottom: 1px solid #993366;
+	margin-left: 10px;
+	font-style: italic;
+}
+
+figure img {
+	float: left;
+	margin-left: 25px;
+	margin-top: 22px;
+	border-radius: 50%;
+	border: 1px solid #006666; 
+	width: 120px;
+	height: 120px;
+	box-shadow: 3px 3px 4px #000000;
+}
+
+aside {
+	margin-top: 30px;
+	/*font-family: "Helvitica", sans-serif;*/
+}
+
+li {
+	/*font-family: "Helvitica", sans-serif;*/
+	font-size: 15px;
+}
+
+i.tiny {
+	color: #006666;
+	background-color: #FFFFFF;
+	box-shadow: 1px 1px 2px #000000;
+}
+
+article p {
+	/*font-family: "Helvitica", sans-serif;*/
+	font-size: 20px;
+	text-indent: 18px;
+}
+
+article p:hover {
+	color:yellow;
+}
+
+article {
+	background-color: #006666;
+	border-radius: 7px 7px 7px 7px;
+	color: #FFFFFF;
+	box-shadow: 3px 3px 4px #000000;
+	padding: 12px 12px 12px 12px;
+	margin-right: 15px;
+}
+
+p.school-title {
+	/*color: #000000;*/
+	/*font-family:"Helvitica", sans-serif;*/
+	font-size: 20px;
+	font-style: italic;
+}
+
+p.degree {
+	/*color: #000000;*/
+	/*font-family:"Helvitica", sans-serif;*/
+	font-size: 16px;
+	line-height: 10px;
+}
+
+p.gpa {
+	/*font-family: "Helvitica", sans-serif;*/
+	font-size: 14px;
+}
+
+table {
+	width: 400px;
+}
+
+table td {
+	/*font-family: "Helvitica", sans-serif;*/
+	font-size: 14px;
+}
+
+table i.tiny {
+	/*color: #006666;*/
+	box-shadow: none;
+	background-color: #eeeeee;
+}
